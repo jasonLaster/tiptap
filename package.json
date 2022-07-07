@@ -35,6 +35,7 @@
     "@lerna/batch-packages": "^3.16.0",
     "@lerna/filter-packages": "^5.0.0",
     "@lerna/project": "^5.0.0",
+    "@replayio/cypress": "^0.2.2",
     "@rollup/plugin-babel": "^5.3.0",
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.3",
